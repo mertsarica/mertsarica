@@ -19,11 +19,17 @@ https://www.mertsarica.com
 Certifications
 ----------------
 2020 – CCISO (Certified Chief Information Security Officer)
+
 2013 – CEREA (Certified Expert Reverse Engineering Analyst)
+
 2010 – CREA (Certified Reverse Engineering Analyst)
+
 2009 – OPST (OSSTMM Professional Security Tester)
+
 2009 – OSCP (Offensive Security Certified Professional)
+
 2007 – CISSP (Certified Information Systems Security Professional)
+
 2006 – SSCP (Systems Security Certified Practitioner)
 
 Presentations
