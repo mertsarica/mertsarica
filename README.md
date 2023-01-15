@@ -14,7 +14,7 @@ From the beginning of 2011, Mert spoke at more than 30 technical cybersecurity c
 
 Blog
 -------
-https://www.mertsarica.com
+https://www.hack4career.com | https://www.mertsarica.com
 
 Certifications
 ----------------
