@@ -1,4 +1,6 @@
-Mert is a well-known and respected Cyber Security Researcher, Speaker, and Blogger.
+Mert is a well-known and respected Cyber Security Researcher, Speaker, and Blogger. He has been living and pursuing his career in the United States with O-1 visa (Individuals with Extraordinary Ability or Achievement) since October 2022.
+
+As of February 2023, Mert has been working at SOCRadar® Extended Threat Intelligence as the Head of Strategy. SOCRadar is a cybersecurity company committed to democratizing threat intelligence and providing superior cybersecurity solutions to over 6,000 companies in 150 countries. SOCRadar’s mission is to provide organizations of all sizes with the tools they need to counter cyber threats.
 
 From October 2020 to September 2022, Mert demonstrated his expertise as an Executive Vice President / CISO of IT Security & Risk Management Group, which incorporates Cyber Defense Center, Cyber Security Technologies, Cyber Security Architecture, Information Security & Risk Management teams (40 HC) at Intertech. Intertech is an Information Technology subsidiary of DenizBank, owned by Emirates NBD
 
